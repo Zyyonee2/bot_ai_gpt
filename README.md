@@ -1,9 +1,6 @@
 
-  * {
-    background:black;
-  }
 <p align="center">
-<img src="https://telegra.ph/file/14ffa79b1d7a36e3ecfa5.jpg" alt="KiZakiXD" width="100"/>
+<img src="https://telegra.ph/file/14ffa79b1d7a36e3ecfa5.jpg" alt="Zyyonees" width="100"/>
 
 
 </p>
