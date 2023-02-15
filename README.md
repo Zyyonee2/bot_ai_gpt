@@ -1,8 +1,7 @@
-<style>
+
   * {
     background:black;
   }
-</style>
 <p align="center">
 <img src="https://telegra.ph/file/14ffa79b1d7a36e3ecfa5.jpg" alt="KiZakiXD" width="100"/>
 
